@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
                 <title>Meu Projeto Cloud</title>
             </head>
             <body>
-                <h1>Bem-vindo ao meu projeto!</h1>
+                <h1>Bem-vindo à versão 2 do meu projeto Cloud!</h1>
                 <p>Aplicação desenvolvida com Node.js e Express.</p>
                 <a href="/sobre">Sobre</a> |
                 <a href="/contato">Contato</a>
